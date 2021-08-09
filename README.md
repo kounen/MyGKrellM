@@ -12,7 +12,13 @@ In “graphical” mode, your monitor must be displayed in a graphical window, w
 <h3>Mode description</h3>
 <strong>--tests</strong> <em>to run units tests</em>.<br>
 <strong>--text-mode</strong> <em>to run MyGKrellm in text mode</em>.<br>
+<p align="center">
+    <a><img src="./img/Screenshot_20210809_224705.png" alt="[002]"></a>
+</p>
 <strong>--graphical-mode</strong> <em>to run MyGKrellm in graphical mode</em>.<br>
+<p align="center">
+    <a><img src="./img/Screenshot_20210809_224613.png" alt="[002]"></a>
+</p>
 
 <h3>Option</h3>
 "-h" to display the help page.<br>
